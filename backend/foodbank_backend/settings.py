@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'foodbank_db',
-        'USER': 'foodbank_user',
-        'PASSWORD': 'secure_password',
+        'USER': 'admin',
+        'PASSWORD': 'rh757575',
         'HOST': 'localhost',
         'PORT': '5432',
     }
