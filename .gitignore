@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual Environments
+env/
+venv/
+food_bank_env/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.so
+db.sqlite3
+
+# Other
+.vscode/
+.idea/
+*.swp
